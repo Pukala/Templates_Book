@@ -1,7 +1,5 @@
 #include <vector>
 #include <cassert>
-#include <string>
-#include <memory>
 template <typename T>
 class MyStack
 {
